@@ -11,7 +11,7 @@ It's also used as the main library for a vector editing application at [https://
 To install, simply clone the repo, and compile the sample in `sample/paperqml.pro`:
 
 ```
-cd samples
+cd sample
 qmake -r .
 make (or nmake)
 ```
