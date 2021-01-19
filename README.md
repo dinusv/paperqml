@@ -4,9 +4,11 @@ PaperQml is a port of *paper.js* to qml (see [paper.js](http://paperjs.org)).
 
 PaperQml adds vector graphics scripting to qml.
 
+[papergrapherqml](https://github.com/dinusv/papergrapherqml) is a vector editing application based on paperqml.
+
 ## Installation
 
-To install, simply clone the repo, and compile the sample in `samples/paperqml.pro`:
+To install, simply clone the repo, and compile the sample in `sample/paperqml.pro`:
 
 ```
 cd samples
@@ -16,7 +18,7 @@ make (or nmake)
 
 ## Usage
 
-The sample in `samples/main.qml` shows how to draw simple paths, incldue mouse interactions 
+The sample in `sample/main.qml` shows how to draw simple paths, include mouse interactions 
 and add animations.
 
 PaperQml wraps everything around a `PaperCanvas` item:
