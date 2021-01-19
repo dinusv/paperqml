@@ -4,7 +4,7 @@ PaperQml is a port of *paper.js* to qml (see [paper.js](http://paperjs.org)).
 
 PaperQml adds vector graphics scripting to qml.
 
-[papergrapherqml](https://github.com/dinusv/papergrapherqml) is a vector editing application based on paperqml.
+It's also used as the main library for a vector editing application at [https://github.com/dinusv/papergrapherqml](https://github.com/dinusv/papergrapherqml).
 
 ## Installation
 
